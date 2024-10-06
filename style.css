@@ -1,7 +1,36 @@
 body {
-  background-color: #29293d;
-  color: white;
+  color: #FFF8E7;
   font-family: Verdana;
-  margin-left: 90px; 
-  margin-top: 70px;
+  background-size: cover;
+}
+
+h1 {
+	color: red;
+}
+
+
+a:link {
+	color: blue;
+}
+
+a:visited {
+	color: purple;
+}
+
+#content {
+  border: 1px solid #FFF8E7;
+  padding: 10px;
+  background-color: #2a2e2b;
+  margin-left: 5%; 
+  margin-right: 60%; 
+  margin-top: 5%;
+}
+
+#next_challenge {
+  border: 1px solid #FFF8E7;
+  padding: 10px;
+  background-color: #2a2e2b;
+  margin-left: 70%; 
+  margin-right: 5%; 
+  margin-top: 15%;
 }
